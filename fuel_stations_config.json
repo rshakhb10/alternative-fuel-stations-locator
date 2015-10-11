@@ -1,0 +1,9 @@
+{ "fuel_stations_url":
+	{
+		"general_info_url": "https://developer.nrel.gov/api/alt-fuel-stations/v1.json?",
+		"nearest_station_url": "https://developer.nrel.gov/api/alt-fuel-stations/v1/nearest.json?"
+	},
+
+	"api_key": "RBNLRMbWJTbhXwa3GjMJpa1a8Bj5BrWK2YB1GpDA",
+	"output_format": "json"
+}
